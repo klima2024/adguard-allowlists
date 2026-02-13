@@ -1,77 +1,37 @@
-=========================================
-#AdGuard Home – DNS Allowlist
-#Purpose: Streaming / Smart Home / Connectivity
-#Platform: AdGuard Home (DNS-Zulassungsliste)
-#Created: 2026-01-22
-=========================
-#Streaming – Netflix
+# AdGuard Home – DNS Allowlist (Bereinigt)
+# Fokus: Streaming & Basis-Connectivity (Ohne Samsung/Google TV)
+# Streaming – Netflix
 netflix.com
 nflxvideo.net
 nflximg.net
 nflxext.com
 nflxso.net
 fast.com
-=========================
-#Streaming – ARD
+# Streaming – ÖRR (ARD/ZDF)
 ardmediathek.de
 ard.de
 cdn.ard.de
-wdr.de
-mdr.de
-ndr.de
-br.de
-hr.de
-rbb-online.de
-swr.de
-tagesschau.de
-=========================
-#Streaming – ZDF
 zdf.de
 zdfmediathek.de
 zdf-cdn.live.cellular.de
-=========================
-#Streaming – RTL+
+# Streaming – RTL+
 rtlplus.de
 rtl.de
 tvnow.de
-cdn.tvnow.de
-=========================
-#Streaming – Amazon Prime Video (optional)
+# Streaming – Amazon Prime Video
 primevideo.com
 amazonvideo.com
 media-amazon.com
-=========================
-#Apple – iOS / HomeKit / Apple TV
-#apple.com
-#icloud.com
-#cdn.apple.com
-#guzzoni.apple.com
-#xp.apple.com
-=========================
-#Samsung Smart TV
-samsung.com
-samsungcloudsolution.com
-samsungqbe.com
-=========================
-#Sonos
+# Smart Home – Sonos & Alexa
 sonos.com
 sonos.radio
-msmetrics.ws.sonos.com
-=========================
-#Amazon Alexa / Echo
 amazon.com
 amazonaws.com
 alexa.amazon.com
 avs-alexa.com
-=========================
-#Google / Chromecast / Android TV
-google.com
-googleapis.com
-gstatic.com
-clients3.google.com
-connectivitycheck.gstatic.com
-=========================
-#Netzwerk / Connectivity (WICHTIG)
+# Netzwerk / Connectivity (WICHTIG für Windows & Android)
 msftconnecttest.com
 msftncsi.com
 time.windows.com
+connectivitycheck.gstatic.com
+clients3.google.com
