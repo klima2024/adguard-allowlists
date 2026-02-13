@@ -29,6 +29,9 @@ amazon.com
 amazonaws.com
 alexa.amazon.com
 avs-alexa.com
+shelly.cloud
+meethue.com
+nabucasa.com
 # Netzwerk / Connectivity (WICHTIG für Windows & Android)
 msftconnecttest.com
 msftncsi.com
